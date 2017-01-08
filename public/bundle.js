@@ -1,3 +1,4 @@
+/*! Copyright Flying Unicorns inc. */
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
